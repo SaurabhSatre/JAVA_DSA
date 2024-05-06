@@ -10,6 +10,7 @@ public class bubble_sort {
                 }
             }
         }
+        
     }
     public static void print(int arr[])
     {
