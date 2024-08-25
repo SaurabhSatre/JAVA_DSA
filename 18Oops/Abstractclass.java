@@ -4,10 +4,10 @@ public class Abstractclass {
         //Horse h = new Horse();
         //h.eat();
         //h.walk();
-        //Chicken c = new Chicken();
+        Chicken c = new Chicken();
        // c.eat();
-       // c.walk();
-       Mustang c = new Mustang();
+       c.walk();
+    //    Mustang c = new Mustang();
     }
 }
 
